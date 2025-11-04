@@ -111,6 +111,8 @@ const zulfiquar = {
 <div align="center">
   
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zulfie1003&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=zulfie1003&bg_color=1a1b27&color=70a5fd&line=38bdae&point=ffffff&area=true&hide_border=true" alt="Zulfiquar's Contribution Graph" />
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zulfie1003&layout=compact&langs_count=8&theme=tokyonight"/>
 
 </div>
