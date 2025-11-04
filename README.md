@@ -1,5 +1,4 @@
-# 👋 Hey there, I'm Zulfiquar Ali!
-
+# 🧠 Zulfiquar Ali — Learning, Building, Growing.
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F78D1E&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Problem+Solver+%F0%9F%A7%A9;DSA+Enthusiast+%F0%9F%8E%AF;Open+Source+Contributor+%F0%9F%8C%9F" alt="Typing SVG" />
 </div>
@@ -110,16 +109,25 @@ const zulfiquar = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zulfie1003&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zulfie1003&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" />
-
-  <br/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zulfie1003&theme=tokyonight" alt="GitHub Streak" />
+  
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zulfie1003&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zulfie1003&layout=compact&langs_count=8&theme=tokyonight"/>
 
 </div>
 
+<div align="center">
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zulfie1003&theme=tokyonight" alt="GitHub Streak" />
+  
+</div>
+
+<div align="center">
+ 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zulfie1003&layout=compact&theme=tokyonight)
+
+  <img src="https://github-readme-stats.vercel.app/api?username=zulfie1003&show_icons=true&theme=tokyonight" />
+  
+</div>
 
 ---
 
@@ -145,7 +153,12 @@ Goals_2025:
 
 <div align="center">
   
-  <img src="https://github-profile-trophy.vercel.app/?username=satyam0777&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=22&duration=3000&color=00FF00&center=true&vCenter=true&width=450&lines=Hello+World!;Welcome+to+my+Digital+Realm.;Where+Logic+Meets+Creativity." />
+
+
+
   
 </div>
 
@@ -156,7 +169,9 @@ Goals_2025:
 
 <div align="center">
   
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F78D1E&center=true&vCenter=true&width=600&lines=Talk+is+cheap%2C+show+me+the+code.+-+Linus+Torvalds;First%2C+solve+the+problem.+Then%2C+write+the+code.+-+John+Johnson" alt="Dev Quote" />
+
+
   
 </div>
 
@@ -181,6 +196,8 @@ I'm always open to interesting conversations and collaboration opportunities. Wh
   
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
   
+ 
+
 </div>
 
 ---
