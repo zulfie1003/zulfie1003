@@ -90,18 +90,19 @@ const zulfiquar = {
 </div>
 
 ---
+🚀 Featured Projects
 
-##  Featured Projects
+| Project                     | Description                | Tech Stack | Repository                                                 |
+| --------------------------- | -------------------------- | ---------- | ---------------------------------------------------------- |
+| 📱 **NexusChat**            | Real-time chat application | JavaScript | [GitHub](https://github.com/zulfie1003/NexusChat)          |
+| 💼 **Portfolio.me**         | Personal portfolio web app | JavaScript | [GitHub](https://github.com/zulfie1003/Portfolio.me)       |
+| 🛠️ **CodeCraftFullStack**  | Fullstack web project      | JavaScript | [GitHub](https://github.com/zulfie1003/CodeCraftFullStack) |
+| 📍 **InternTrack**          | Internship tracking app    | JavaScript | [GitHub](https://github.com/zulfie1003/InternTrack)        |
+| 📘 **ReactJsByYt**          | React learn-along project  | JavaScript | [GitHub](https://github.com/zulfie1003/ReactJsByYt)        |
+| 📚 **DSA-Sheet / dsaSheet** | DSA practice sheet         | JavaScript | [GitHub](https://github.com/zulfie1003/dsaSheet)           |
+| 🧠 **DSA-HUB**              | DSA resources hub          | JavaScript | [GitHub](https://github.com/zulfie1003/DSA-HUB)            |
+| 🧪 **CodeCraft**            | TS/JS code practice        | TypeScript | [GitHub](https://github.com/zulfie1003/CodeCraft)          |
 
-<div align="center">
-  
-  | Project | Description | Tech Stack | Links |
-  |---------|-------------|------------|-------|
-  | 🔬 **Vetcare** | Veterinary Telimedicine Plateform | React, Node.js, MongoDB, Socket.io, Razorpay, Agora.io | [Live](https://vet-care-plateform-crm.vercel.app/) |
-  | 🧠 **Second Brain** | Smart Notes & Knowledge Manager | React, Node.js, MongoDB | [Live](https://second-brain-project.vercel.app/) |
-  | 📝 **Study-Helper AI** | AI Study Assistant | React, TypeScript, Node.js, OpenAI, Gemini API | [Live](https://study-helper-six.vercel.app/) |
-  |  **DSA Mastery** | A visual mindmap view  | MERN Stack | [Live](https://dsa-mastery-project.vercel.app/) |
-</div>
 
 
 ---
