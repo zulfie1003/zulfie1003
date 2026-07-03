@@ -90,22 +90,18 @@ const zulfiquar = {
 </div>
 
 ---
-🚀 Featured Projects
+## 🚀 Featured Projects
 
-| Project                     | Description                | Tech Stack | Repository                                                 |
-| --------------------------- | -------------------------- | ---------- | ---------------------------------------------------------- |
-| 📱 **NexusChat**            | Real-time chat application | JavaScript | [GitHub](https://github.com/zulfie1003/NexusChat)          |
-| 💼 **Portfolio.me**         | Personal portfolio web app | JavaScript | [GitHub](https://github.com/zulfie1003/Portfolio.me)       |
-| 🛠️ **CodeCraftFullStack**  | Fullstack web project      | JavaScript | [GitHub](https://github.com/zulfie1003/CodeCraftFullStack) |
-| 📍 **InternTrack**          | Internship tracking app    | JavaScript | [GitHub](https://github.com/zulfie1003/InternTrack)        |
-| 📘 **ReactJsByYt**          | React learn-along project  | JavaScript | [GitHub](https://github.com/zulfie1003/ReactJsByYt)        |
-| 📚 **DSA-Sheet / dsaSheet** | DSA practice sheet         | JavaScript | [GitHub](https://github.com/zulfie1003/dsaSheet)           |
-| 🧠 **DSA-HUB**              | DSA resources hub          | JavaScript | [GitHub](https://github.com/zulfie1003/DSA-HUB)            |
-| 🧪 **CodeCraft**            | TS/JS code practice        | TypeScript | [GitHub](https://github.com/zulfie1003/CodeCraft)          |
-
-
-
----
+| Project | Description | Tech Stack | Repository | Live Demo |
+|---------|-------------|------------|------------|-----------|
+| 🛠️ **CodeCraft FullStack** | AI-powered MERN coding platform with code execution, authentication, and interview preparation | MERN Stack, TypeScript, React, Node.js, MongoDB | [GitHub](https://github.com/zulfie1003/CodeCraftFullStack) | [Live](https://codecraftfullstack.vercel.app) |
+| 🤖 **AI Bot** | AI chatbot powered by modern LLM APIs with an interactive chat interface | Next.js, TypeScript, AI API | [GitHub](https://github.com/zulfie1003/aibot) | [Live](https://aibot-zulfie.vercel.app) |
+| 🌐 **3D Portfolio** | Interactive developer portfolio featuring 3D animations and responsive design | React, Three.js, Tailwind CSS | [GitHub](https://github.com/zulfie1003/portfolio3d) | [Live](https://portfolio3d-zulfie.vercel.app) |
+| 🌿 **FloraVision** | Modern plant e-commerce landing page built from a Figma design | React, Tailwind CSS | [GitHub](https://github.com/zulfie1003/floravision.new) | [Live](https://floravision.vercel.app) |
+| 👶 **Kiddo App** | Mobile application for kids with engaging educational UI and features | React Native, Expo | [GitHub](https://github.com/zulfie1003/Kiddo_App) | [Live](#) |
+| 🧬 **Human Experience Matrix** | Full-stack application exploring human experience analytics and visualization | React, Node.js, MongoDB | [GitHub](https://github.com/zulfie1003/HumanExperienceMatrix) | [Live](#) |
+| 📱 **NexusChat** | Real-time chat application with instant messaging | JavaScript, Socket.io, Node.js | [GitHub](https://github.com/zulfie1003/NexusChat) | [Live](#) |
+| 📍 **InternTrack** | Internship tracking and management platform | React, JavaScript | [GitHub](https://github.com/zulfie1003/InternTrack) | [Live](#) |
 
 ## 📊 GitHub Analytics
 
