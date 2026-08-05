@@ -1,14 +1,22 @@
-# Hi, I'm Zulfiquar Ali 👋
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F78D1E&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;MERN+%7C+React+%7C+Node.js;DSA+%26+System+Design+Enthusiast+%F0%9F%8E%AF;Open+to+Full-Time+Opportunities+%F0%9F%8C%9F" alt="Typing SVG" />
-</div>
 
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=220&section=header&text=Zulfiquar%20Ali%20(Aayan)&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20(MERN)%20%7C%20Problem%20Solver%20%7C%20DSA%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F78D1E&center=true&vCenter=true&width=650&lines=Full+Stack+MERN+Developer+%F0%9F%9A%80;Building+GramConnect+%E2%80%94+MERN+Marketplace;Problem+Solver+%F0%9F%A7%A9;350%2B+LeetCode+Problems+Solved+%F0%9F%8E%AF" alt="Typing SVG" />
+
+<br/>
 
 [![GitHub followers](https://img.shields.io/github/followers/zulfie1003?style=for-the-badge&color=orange&labelColor=000000)](https://github.com/zulfie1003)
 [![GitHub stars](https://img.shields.io/github/stars/zulfie1003?style=for-the-badge&color=orange&labelColor=000000)](https://github.com/zulfie1003?tab=repositories)
 [![Profile views](https://komarev.com/ghpvc/?username=zulfie1003&style=for-the-badge&color=orange&labelColor=000000)](https://github.com/zulfie1003)
+
+<br/>
+
+<a href="#about-me">About</a> •
+<a href="#-tech-stack">Tech Stack</a> •
+<a href="#-featured-projects">Projects</a> •
+<a href="#-github-analytics">Analytics</a> •
+<a href="#-lets-collaborate">Connect</a>
 
 </div>
 
@@ -16,34 +24,43 @@
 
 ## 👨‍💻 About Me
 
+<img align="right" alt="coding" width="320" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
+
+- 🎓 B.Tech CSE Graduate (2026) — AKTU
+- 🌱 Currently focused on **Full Stack Development, System Design & DSA**
+- 🚀 Building **GramConnect** — a large-scale MERN marketplace
+- 🎯 Solved **350+ LeetCode problems** (Top 10% globally)
+- 📄 Presented **CodeCraft** research at **ICMCE 2026, TMU Moradabad**
+- 💼 Open to: **MERN Stack Developer · Full Stack Developer · Backend Developer**
+- 📍 Greater Noida, India 🇮🇳
+
 ```javascript
-const zulfiquar = {
-  role: "Full Stack Developer (MERN)",
-  location: "India 🇮🇳",
-  currentFocus: ["Full Stack Development", "DSA", "System Design"],
-  lookingFor: "Full-time Full Stack Engineering roles",
+const aayan = {
+  pronouns: "He/Him",
+  role: "B.Tech CSE Graduate (2026) — AKTU",
   technologies: {
-    frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
-    backend: ["Node.js", "Express.js", "MongoDB", "REST APIs"],
-    languages: ["JavaScript", "TypeScript", "C++", "C"],
-    tools: ["Git", "Docker", "Linux", "VS Code", "Postman"],
+    frontEnd: ["React", "Next.js", "TypeScript", "Redux Toolkit", "Tailwind CSS"],
+    backEnd: ["Node.js", "Express.js", "REST APIs", "Socket.IO"],
     databases: ["MongoDB", "PostgreSQL", "Redis"],
+    languages: ["JavaScript", "TypeScript", "C++", "C"],
+    tools: ["Git", "Docker", "Linux", "Postman", "VS Code"]
   },
-  currentlyLearning: ["System Design", "DevOps", "Microservices"],
+  currentlyLearning: ["System Design", "DevOps", "Microservices", "AWS/GCP"]
 };
 ```
 
----
+<br clear="right"/>
 
-## 🌐 Connect With Me
+### 🌐 Connect With Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zulfiquar-ali-931774281/)
-[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/zulfie1900)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zulfiquar-ali-/)
+[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/zulfie1900)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/zufiquar_aly/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Zulfie2003/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zulfie1003)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://zulfie1003.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://zulfie-portfolio.vercel.app/)
 
 </div>
 
@@ -52,95 +69,155 @@ const zulfiquar = {
 ## 🛠️ Tech Stack
 
 <div align="center">
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,cpp,mongodb,postgres,redis,linux,docker,git,postman,vscode&theme=dark" />
 </div>
 
 ---
 
-## 🚀 Top 5 Projects
+## 🚀 Featured Projects
 
-A quick way for recruiters to jump straight to live demos and source code.
+> 📌 A few projects below are currently **private repos** — links go live once made public. Preview cards for public repos are GitHub's own auto-generated social previews.
 
-### 1. 🛠️ CodeCraft FullStack
-AI-powered MERN coding platform with in-browser code execution, authentication, and interview-prep tooling.
-**Stack:** MERN · TypeScript · React · Node.js · MongoDB
-[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://codecraftfullstack.vercel.app)
-[![Repo](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/zulfie1003/CodeCraftFullStack)
+### 🔗 Full Stack Projects
 
-### 2. 🤖 AI Bot
-AI chatbot built on modern LLM APIs with a clean, interactive chat interface.
-**Stack:** Next.js · TypeScript · LLM API
-[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://aibot-zulfie.vercel.app)
-[![Repo](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/zulfie1003/aibot)
+<table>
+<tr>
+<td width="240"><img src="https://opengraph.githubassets.com/1/zulfie1003/CodeCraftFullStack" width="230"/></td>
+<td>
 
-### 3. 🌐 3D Portfolio
-Interactive developer portfolio with 3D animations and a fully responsive layout.
-**Stack:** React · Three.js · Tailwind CSS
-[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://portfolio3d-zulfie.vercel.app)
-[![Repo](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/zulfie1003/portfolio3d)
+**💻 [CodeCraftFullStack](https://github.com/zulfie1003/CodeCraftFullStack)**
+AI-powered MERN coding platform with real-time code execution, problem solving & job matching. Presented at **ICMCE 2026, TMU Moradabad**.
+`MERN Stack` `TypeScript` `Judge0 API` `Groq AI`
 
-### 4. 🌿 FloraVision
-Plant e-commerce landing page built pixel-accurate from a Figma design spec.
-**Stack:** React · Vite · Tailwind CSS
-[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://floravision.vercel.app)
-[![Repo](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/zulfie1003/floravision.new)
+</td>
+</tr>
+<tr>
+<td width="240"><img src="https://img.shields.io/badge/🔒_Private_Repo-black?style=for-the-badge" width="230"/></td>
+<td>
 
-### 5. 🧬 Human Experience Matrix
-Full-stack analytics and visualization application built end-to-end with the MERN stack.
-**Stack:** React · Node.js · MongoDB
-[![Repo](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/zulfie1003/HumanExperienceMatrix)
+**🛒 GramConnect**
+Large-scale MERN marketplace connecting customers, shops, farmers & delivery partners. Multi-role RBAC, real-time Socket.IO chat, Razorpay payments with webhooks, Claude API AI assistant widget.
+`React 19` `Redux Toolkit` `Node.js` `Express` `MongoDB` `Socket.IO`
 
-<details>
-<summary><b>More Projects</b></summary>
+</td>
+</tr>
+<tr>
+<td width="240"><img src="https://img.shields.io/badge/🔒_Private_Repo-black?style=for-the-badge" width="230"/></td>
+<td>
 
-| Project | Description | Tech Stack | Repository |
-|---|---|---|---|
-| 👶 Kiddo App | Mobile app for kids with an engaging educational UI | React Native, Expo | [GitHub](https://github.com/zulfie1003/Kiddo_App) |
-| 📱 NexusChat | Real-time chat app with instant messaging | JavaScript, Socket.io, Node.js | [GitHub](https://github.com/zulfie1003/NexusChat) |
-| 📍 InternTrack | Internship tracking and management platform | React, JavaScript | [GitHub](https://github.com/zulfie1003/InternTrack) |
+**📋 TaskFlow**
+Production-ready task management system with JWT auth, RBAC & AI-assisted task prioritization.
+`MERN Stack` `JWT` `Claude API`
 
-</details>
+</td>
+</tr>
+<tr>
+<td width="240"><img src="https://img.shields.io/badge/🔒_Private_Repo-black?style=for-the-badge" width="230"/></td>
+<td>
+
+**🧬 Human Experience Matrix**
+Next.js 14 AI knowledge platform bridging personal challenges with historical wisdom via a 6-step Claude API reasoning framework.
+`Next.js 14` `Claude API` `TypeScript` `Tailwind CSS`
+
+</td>
+</tr>
+</table>
+
+### 🎨 Frontend Projects
+
+<table>
+<tr>
+<td width="240"><img src="https://opengraph.githubassets.com/1/zulfie1003/portfolio3d" width="230"/></td>
+<td>
+
+**🌐 [3D Portfolio](https://github.com/zulfie1003/portfolio3d)**
+Interactive developer portfolio with 3D animations and responsive design.
+`React` `Three.js` `Tailwind CSS`
+
+</td>
+</tr>
+<tr>
+<td width="240"><img src="https://opengraph.githubassets.com/1/zulfie1003/Portfolio.me" width="230"/></td>
+<td>
+
+**💼 [Portfolio.me](https://github.com/zulfie1003/Portfolio.me)**
+Personal portfolio web app.
+`React` `JavaScript`
+
+</td>
+</tr>
+<tr>
+<td width="240"><img src="https://img.shields.io/badge/🔒_Private_Repo-black?style=for-the-badge" width="230"/></td>
+<td>
+
+**🌿 FloraVision**
+Fully responsive plant e-commerce landing page with a dark forest-green theme, built from a Figma design; custom overflow card image technique.
+`React` `Tailwind CSS`
+
+</td>
+</tr>
+<tr>
+<td width="240"><img src="https://img.shields.io/badge/🔒_Private_Repo-black?style=for-the-badge" width="230"/></td>
+<td>
+
+**👶 Kiddo App**
+Educational mobile app for kids with an engaging, playful UI.
+`React Native` `Expo`
+
+</td>
+</tr>
+</table>
+
+### ⚙️ Backend Projects
+
+<table>
+<tr>
+<td width="240"><img src="https://opengraph.githubassets.com/1/zulfie1003/aibot" width="230"/></td>
+<td>
+
+**🤖 [AI Bot](https://github.com/zulfie1003/aibot)**
+AI chatbot powered by LLM APIs with an interactive chat interface and API-driven responses.
+`TypeScript` `Next.js` `AI API`
+
+</td>
+</tr>
+<tr>
+<td width="240"><img src="https://opengraph.githubassets.com/1/zulfie1003/NexusChat" width="230"/></td>
+<td>
+
+**📱 [NexusChat](https://github.com/zulfie1003/NexusChat)**
+Real-time chat application with instant messaging via WebSockets.
+`JavaScript` `Socket.IO` `Node.js`
+
+</td>
+</tr>
+<tr>
+<td width="240"><img src="https://opengraph.githubassets.com/1/zulfie1003/InternTrack" width="230"/></td>
+<td>
+
+**📍 [InternTrack](https://github.com/zulfie1003/InternTrack)**
+Internship tracking and management platform with API-backed data handling.
+`JavaScript` `React` `Node.js`
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=zulfie1003&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zulfie1003&layout=compact&langs_count=8&theme=tokyonight" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zulfie1003&theme=tokyonight" alt="GitHub Streak" />
-</div>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=zulfie1003&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zulfie1003&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zulfie1003&bg_color=1a1b27&color=70a5fd&line=38bdae&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
-</div>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zulfie1003&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
----
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zulfie1003&bg_color=1a1b27&color=70a5fd&line=38bdae&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" width="90%"/>
 
-## 🏆 GitHub Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=zulfie1003&theme=darkhub&no-frame=true&column=7&margin-w=8" alt="GitHub Trophies" />
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zulfie1003&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -148,40 +225,34 @@ Full-stack analytics and visualization application built end-to-end with the MER
 ## 🎯 Current Focus
 
 ```yaml
-learning:
+Learning:
   - System Design fundamentals
-  - DevOps basics & CI/CD pipelines
+  - DevOps & CI/CD pipelines
   - Advanced DSA & competitive programming
   - Microservices architecture
-  - Cloud computing (AWS/GCP)
 
-goals:
-  - Land a full-time Full Stack Engineering role
-  - Build and ship scalable, production-grade applications
-  - Get comfortable with system design at scale
+Achievements:
+  - Solved 350+ LeetCode problems (Top 10% globally)
+  - Built GramConnect — full-scale MERN marketplace with RBAC & real-time chat
+  - Presented CodeCraft research at ICMCE 2026, TMU Moradabad
 ```
 
 ---
 
 ## 🤝 Let's Collaborate
 
-I'm actively looking for full-time Full Stack Engineering opportunities, and always open to:
-
-- 🚀 Working on interesting projects together
-- 💡 Swapping knowledge and ideas
-- 🌟 Contributing to open source
-- 🎯 Solving hard problems
-
-**Reach out anytime** on [LinkedIn](https://www.linkedin.com/in/zulfiquar-ali-931774281/) or [Twitter/X](https://x.com/zulfie1900).
-
----
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
 <div align="center">
 
-⭐️ From [Zulfiquar Ali](https://github.com/zulfie1003)
+I'm actively looking for **Full Stack / MERN / Backend Developer** roles and open to:
+
+🚀 Collaborating on interesting projects &nbsp;|&nbsp; 💡 Open source contributions &nbsp;|&nbsp; 🎯 Solving challenging engineering problems
+
+**Reach out on [LinkedIn](https://www.linkedin.com/in/zulfiquar-ali-/), [X](https://x.com/zulfie1900), [Instagram](https://www.instagram.com/zufiquar_aly/), or check out my [Portfolio](https://zulfie-portfolio.vercel.app/) — always happy to connect!**
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%"/>
+
+⭐️ From <a href="https://github.com/zulfie1003">Zulfiquar Ali</a>
 
 </div>
