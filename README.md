@@ -209,19 +209,24 @@ Internship tracking and management platform with API-backed data handling.
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=zulfie1003&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zulfie1003&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=zulfie1003&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zulfie1003&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zulfie1003&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zulfie1003&bg_color=1a1b27&color=70a5fd&line=38bdae&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" width="90%"/>
+<br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=zulfie1003&theme=darkhub&no-frame=true&column=7&margin-w=8" alt="GitHub Trophies" />
+<img src="https://streak-stats.demolab.com?user=zulfie1003&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zulfie1003&theme=tokyo-night"/>
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=zulfie1003&theme=tokyonight&no-frame=true&no-bg=true"/>
 
 </div>
-
----
-
+----
 ## 🎯 Current Focus
 
 ```yaml
