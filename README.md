@@ -69,15 +69,58 @@ const aayan = {
 ## 🛠️ Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,cpp,mongodb,postgres,redis,linux,docker,git,postman,vscode&theme=dark" />
+
+### 💻 Languages
+<img src="https://skillicons.dev/icons?i=js,ts,java,python,html,css&theme=dark" />
+
+<br><br>
+
+### ⚛️ Frontend
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,vite&theme=dark" />
+
+<br><br>
+
+### 🚀 Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
+
+<br><br>
+
+### 🗄️ Databases & ORM
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,prisma&theme=dark" />
+
+<br><br>
+
+### ☁️ Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,aws,vercel,linux&theme=dark" />
+
+<br><br>
+
+### 🛠️ Tools
+<img src="https://skillicons.dev/icons?i=vscode,postman,npm,bash&theme=dark" />
+
 </div>
 
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Anthropic-Claude-191919?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/Groq-000000?style=for-the-badge&logo=groq&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+<img src="https://img.shields.io/badge/RBAC-0052CC?style=for-the-badge" />
+<img src="https://img.shields.io/badge/NextAuth-v5-000000?style=for-the-badge&logo=auth0&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_OAuth-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
+<img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
+<img src="https://img.shields.io/badge/Zustand-7D4CDB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Context_API-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Prompt_Engineering-412991?style=for-the-badge&logo=openai&logoColor=white" />
+
+</p>
+
 ---
-
-## 🚀 Featured Projects
-
-> 📌 A few projects below are currently **private repos** — links go live once made public. Preview cards for public repos are GitHub's own auto-generated social previews.
-
 ### 🔗 Full Stack Projects
 
 <table>
