@@ -120,8 +120,7 @@ const aayan = {
 
 </p>
 
----
-### 🔗 Full Stack Projects
+## 🏆 Top Projects
 
 <table>
 <tr>
@@ -129,147 +128,67 @@ const aayan = {
 <td>
 
 **💻 [CodeCraftFullStack](https://github.com/zulfie1003/CodeCraftFullStack)**
-AI-powered MERN coding platform with real-time code execution, problem solving & job matching. Presented at **ICMCE 2026, TMU Moradabad**.
-`MERN Stack` `TypeScript` `Judge0 API` `Groq AI`
+AI-powered coding platform with real-time code execution, problem-solving, and job matching. Presented at **ICMCE 2026, TMU Moradabad**.
+`MERN Stack` `JavaScript` `Judge0 API` `Groq AI`
 
 </td>
 </tr>
 <tr>
-<td width="240"><img src="https://img.shields.io/badge/🔒_Private_Repo-black?style=for-the-badge" width="230"/></td>
+<td width="240"><img src="https://opengraph.githubassets.com/1/zulfie1003/GramConnect" width="230"/></td>
 <td>
 
-**🛒 GramConnect**
-Large-scale MERN marketplace connecting customers, shops, farmers & delivery partners. Multi-role RBAC, real-time Socket.IO chat, Razorpay payments with webhooks, Claude API AI assistant widget.
-`React 19` `Redux Toolkit` `Node.js` `Express` `MongoDB` `Socket.IO`
+**🛒 [GramConnect](https://github.com/zulfie1003/GramConnect)**
+A full-stack e-commerce platform built for India's villages and local markets, connecting customers, shopkeepers, farmers, and delivery partners in one ecosystem, with real-time features throughout.
+`TypeScript` `React 19` `Redux Toolkit` `Node.js` `Express` `MongoDB` `Socket.IO`
 
 </td>
 </tr>
 <tr>
-<td width="240"><img src="https://img.shields.io/badge/🔒_Private_Repo-black?style=for-the-badge" width="230"/></td>
+<td width="240"><img src="https://opengraph.githubassets.com/1/zulfie1003/Ai-Interview-" width="230"/></td>
 <td>
 
-**📋 TaskFlow**
-Production-ready task management system with JWT auth, RBAC & AI-assisted task prioritization.
-`MERN Stack` `JWT` `Claude API`
+**🎤 [Ai-Interview-](https://github.com/zulfie1003/Ai-Interview-)**
+AI-powered technical interview simulator — practice DSA, System Design, OOPs, DBMS, OS, and CN, plus behavioral rounds, with "Alex," a strict AI senior-engineer persona. Real-time chat interviews with JWT auth and MongoDB-backed history.
+`JavaScript` `JWT` `MongoDB` `Groq AI`
 
 </td>
 </tr>
 <tr>
-<td width="240"><img src="https://img.shields.io/badge/🔒_Private_Repo-black?style=for-the-badge" width="230"/></td>
+<td width="240"><img src="https://opengraph.githubassets.com/1/zulfie1003/ZulfiePortfolio" width="230"/></td>
 <td>
 
-**🧬 Human Experience Matrix**
-Next.js 14 AI knowledge platform bridging personal challenges with historical wisdom via a 6-step Claude API reasoning framework.
-`Next.js 14` `Claude API` `TypeScript` `Tailwind CSS`
-
-</td>
-</tr>
-</table>
-
-### 🎨 Frontend Projects
-
-<table>
-<tr>
-<td width="240"><img src="https://opengraph.githubassets.com/1/zulfie1003/portfolio3d" width="230"/></td>
-<td>
-
-**🌐 [3D Portfolio](https://github.com/zulfie1003/portfolio3d)**
-Interactive developer portfolio with 3D animations and responsive design.
-`React` `Three.js` `Tailwind CSS`
+**🌐 [ZulfiePortfolio](https://github.com/zulfie1003/ZulfiePortfolio)**
+A modern 3D interactive developer portfolio featuring immersive 3D visuals, a responsive layout, smooth animations, and dedicated project showcase sections.
+`React` `JavaScript` `Three.js` `Tailwind CSS`
 
 </td>
 </tr>
 <tr>
-<td width="240"><img src="https://opengraph.githubassets.com/1/zulfie1003/Portfolio.me" width="230"/></td>
+<td width="240"><img src="https://opengraph.githubassets.com/1/zulfie1003/floravision.new" width="230"/></td>
 <td>
 
-**💼 [Portfolio.me](https://github.com/zulfie1003/Portfolio.me)**
-Personal portfolio web app.
-`React` `JavaScript`
+**🌿 [floravision.new](https://github.com/zulfie1003/floravision.new)**
+A fully responsive plant e-commerce landing page with a dark forest-green theme, built from a Figma design, with a custom overflow card image technique. Repo includes a live demo link.
+`React` `JavaScript` `Tailwind CSS`
 
 </td>
 </tr>
 <tr>
-<td width="240"><img src="https://img.shields.io/badge/🔒_Private_Repo-black?style=for-the-badge" width="230"/></td>
+<td width="240"><img src="https://opengraph.githubassets.com/1/zulfie1003/itzfizz" width="230"/></td>
 <td>
 
-**🌿 FloraVision**
-Fully responsive plant e-commerce landing page with a dark forest-green theme, built from a Figma design; custom overflow card image technique.
-`React` `Tailwind CSS`
-
-</td>
-</tr>
-<tr>
-<td width="240"><img src="https://img.shields.io/badge/🔒_Private_Repo-black?style=for-the-badge" width="230"/></td>
-<td>
-
-**👶 Kiddo App**
-Educational mobile app for kids with an engaging, playful UI.
-`React Native` `Expo`
-
-</td>
-</tr>
-</table>
-
-### ⚙️ Backend Projects
-
-<table>
-<tr>
-<td width="240"><img src="https://opengraph.githubassets.com/1/zulfie1003/aibot" width="230"/></td>
-<td>
-
-**🤖 [AI Bot](https://github.com/zulfie1003/aibot)**
-AI chatbot powered by LLM APIs with an interactive chat interface and API-driven responses.
-`TypeScript` `Next.js` `AI API`
-
-</td>
-</tr>
-<tr>
-<td width="240"><img src="https://opengraph.githubassets.com/1/zulfie1003/NexusChat" width="230"/></td>
-<td>
-
-**📱 [NexusChat](https://github.com/zulfie1003/NexusChat)**
-Real-time chat application with instant messaging via WebSockets.
-`JavaScript` `Socket.IO` `Node.js`
-
-</td>
-</tr>
-<tr>
-<td width="240"><img src="https://opengraph.githubassets.com/1/zulfie1003/InternTrack" width="230"/></td>
-<td>
-
-**📍 [InternTrack](https://github.com/zulfie1003/InternTrack)**
-Internship tracking and management platform with API-backed data handling.
-`JavaScript` `React` `Node.js`
+**⚡ [itzfizz](https://github.com/zulfie1003/itzfizz)**
+`JavaScript`
 
 </td>
 </tr>
 </table>
 
 ---
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=zulfie1003&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zulfie1003&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=zulfie1003&theme=tokyonight&hide_border=true"/>
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zulfie1003&theme=tokyo-night"/>
-
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=zulfie1003&theme=tokyonight&no-frame=true&no-bg=true"/>
-
-</div>
-----
+*Notes:*
+- *All six repos are public, so I linked straight to each one — clicking the title takes you to the repo.*
+- *`floravision.new`'s GitHub page shows a "Link" (live demo), but I don't have that URL — paste it here and I'll turn it into a proper Live Demo button.*
+- *`itzfizz` has no description on your profile yet, so I left it minimal rather than guess what it does — send me a one-liner and I'll fill that row in.*
 ## 🎯 Current Focus
 
 ```yaml
